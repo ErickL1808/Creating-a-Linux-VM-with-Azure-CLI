@@ -1,2 +1,2 @@
-# Creating-a-Linux-VM-with-Azure-CLI
-A short step-to-step guide on how to create a Linux VM &amp; installing Nginx (Web server) using Azure CLI 
+# Creating a Linux VM with Azure Cloud Shell 
+A step-to-step guide to create a Linux VM with Azure Cloud Shell
